@@ -12,9 +12,10 @@ A simple Python weather application that fetches and displays current weather in
 ## Technologies Used
 - Python
 - Requests
-- Open-Meteo API
+- OpenWeather API
 
 ## Run
 
 pip install requests
+pip install requirements
 python weather.py
